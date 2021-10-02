@@ -85,7 +85,8 @@ Some solutions to the vanishing gradient problem include replacing sigmoid funct
 such as **LSTM** and GRU. 
 
 ## References
-1. **Carter N. Brown**, *Gradients for an RNN*, 2017, [[link]](https://github.com/go2carter/nn-learn/blob/master/grad-deriv-tex/rnn-grad-deriv.pdf).
-2. **Dive Into Deep Learning**, *Backpropagation Through Time*, [[link]](https://d2l.ai/chapter_recurrent-neural-networks/bptt.html).
-3. **Xipeng Qiu**, *Neural Networks and Deep Learning*, 2020 [[link]](https://nndl.github.io).
+1. **Carter N. Brown**, [Gradients for an RNN](https://github.com/go2carter/nn-learn/blob/master/grad-deriv-tex/rnn-grad-deriv.pdf), 2017.
+2. **Dive Into Deep Learning**, [Backpropagation Through Time](https://d2l.ai/chapter_recurrent-neural-networks/bptt.html).
+3. **Xipeng Qiu**, [Neural Networks and Deep Learning](https://nndl.github.io), 2020.
+
 ***

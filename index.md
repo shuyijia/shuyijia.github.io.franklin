@@ -23,13 +23,13 @@ and addressing fundamental problems in natural sciences, especially in the field
 
 ## Publications
 
-- ~~~ <span style="color:black;">Periodic Noise-induced Framework for History-dependent Parrondo's Switching</span> ~~~\
+- [Periodic Noise-induced Framework for History-dependent Parrondo's Switching]()\
   **Shuyi Jia**, Joel Weijia Lai, Jin Ming Koh, and Kang Hao Cheong.\
   *To appear*.
 
-- ~~~ <span style="color:black;">Parrondo Effect: Exploring the Nature-inspired Framework on Periodic Functions</span> ~~~\
+- [Parrondo Effect: Exploring the Nature-inspired Framework on Periodic Functions](https://www.sciencedirect.com/science/article/pii/S0378437120303538?casa_token=5DQG5grmWfMAAAAA:ArgjoCsbwLrx59lhy0G4tLPsbPm2QGfRtoKR4vTQxaE0dzDt706tALfGngUNZYS-w9fZrxNDTbjLRw)\
   **Shuyi Jia**, Joel Weijia Lai, Jin Ming Koh, Neng Gang Xie and Kang Hao Cheong.\
-  *Physica A: Statistical Mechanics and its Applications*. [[link]](https://www.sciencedirect.com/science/article/pii/S0378437120303538?casa_token=5DQG5grmWfMAAAAA:ArgjoCsbwLrx59lhy0G4tLPsbPm2QGfRtoKR4vTQxaE0dzDt706tALfGngUNZYS-w9fZrxNDTbjLRw)
+  *Physica A: Statistical Mechanics and its Applications*.
 
 ## Awards
 

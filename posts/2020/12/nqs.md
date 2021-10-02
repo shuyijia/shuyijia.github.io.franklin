@@ -109,9 +109,9 @@ Summing up the hidden units, we have
 The above wave function would be the trial wave function in VMC.
 
 ## References
-1. **Giuseppe Carleo**, **Matthias Troyer**, *Solving the quantum many-body problem with artificial neural networks*, 2017, [[link]](https://arxiv.org/pdf/1606.02318.pdf).
-2. **M. Hutcheon**, *Variational Quantum Monte Carlo energetics of atoms and small molecules*, 2018 [[link]](https://web.stanford.edu/class/cme324/saad-schultz.pdf).
-3. **Paul R. C. Kent**, *Variational Monte Carlo*, [[link]](https://web.ornl.gov/~kentpr/thesis/pkthnode20.html).
-4. **Sheldon M. Ross**, *Simulation*, 5th edition, 2013 [[link]](https://www.elsevier.com/books/simulation/ross/978-0-12-415825-2).
+1. **Giuseppe Carleo**, **Matthias Troyer**, [Solving the quantum many-body problem with artificial neural networks](https://arxiv.org/pdf/1606.02318.pdf), 2017.
+2. **M. Hutcheon**, [Variational Quantum Monte Carlo energetics of atoms and small molecules](https://web.stanford.edu/class/cme324/saad-schultz.pdf), 2018.
+3. **Paul R. C. Kent**, [Variational Monte Carlo](https://web.ornl.gov/~kentpr/thesis/pkthnode20.html).
+4. **Sheldon M. Ross**, [Simulation](https://www.elsevier.com/books/simulation/ross/978-0-12-415825-2), 5th edition, 2013.
 
 ***
