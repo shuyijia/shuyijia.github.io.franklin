@@ -15,6 +15,16 @@ interpretability of NLP models, mentored by Prof. [Lu Wei](https://scholar.googl
 Previously, I have worked with Prof. [Dario Poletti](https://scholar.google.com/citations?user=Kr25TGUAAAAJ&hl=en&oi=ao) on applying machine learning methods to quantum many-body systems,
 and Prof. [Cheong Kang Hao](https://scholar.google.com/citations?hl=en&user=neaUULMAAAAJ&view_op=list_works&sortby=pubdate) on Parrondo's paradox.
 
+~~~
+<div style="text-align: center">
+ <a href="mailto: shuyi_jia@mymail.sutd.edu.sg">&#128236; Email</a>
+ &nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/shuyijia">&#128049; GitHub</a>
+ &nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/shuyi_jia">&#128038; Twitter</a>
+</div>
+~~~
+
 ## Research
 
 My research interests lie in **machine learning** and **computational science**.
