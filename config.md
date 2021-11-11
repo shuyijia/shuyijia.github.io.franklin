@@ -26,3 +26,12 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\vect}[1]{\boldsymbol{#1}}
 \newcommand{\bexam}[1]{\boldsymbol{#1}^{(n)}}
 \newcommand{\exam}[1]{{#1}^{(n)}}
+
+\newcommand{\figenv}[3]{
+~~~
+<figure style="text-align:center;">
+<img src="!#2" style="padding:0;#3" alt="#1"/>
+<figcaption style="font-style: italic; color: black; font-size: 15px;">#1</figcaption>
+</figure>
+~~~
+}
