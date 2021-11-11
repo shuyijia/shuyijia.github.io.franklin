@@ -24,3 +24,5 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 \newcommand{\vect}[1]{\boldsymbol{#1}}
+\newcommand{\bexam}[1]{\boldsymbol{#1}^{(n)}}
+\newcommand{\exam}[1]{{#1}^{(n)}}

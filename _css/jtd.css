@@ -648,3 +648,16 @@ franklin-toc {
   /* Avoid clickable elements being too close together. */
   margin: 0.6rem 0;
 }
+
+.important {
+  background-color: lemonchiffon;
+  padding: 0.5em;
+  margin-bottom: 1em;
+}
+
+.explain {
+  background-color: #dff7ec;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  border-radius: 10px;
+}
