@@ -4,7 +4,7 @@
 
 ## Shuyi Jia 「郏舒逸」
 
-I am a third-year student at [SUTD](https://www.sutd.edu.sg),
+I am a final-year student at [SUTD](https://www.sutd.edu.sg),
 majoring in Computer Science and Design (CSD), a CS degree sprinkled with
 doses of engineering, design and social sciences.
 
@@ -17,11 +17,11 @@ and Prof. [Cheong Kang Hao](https://scholar.google.com/citations?hl=en&user=neaU
 
 ~~~
 <div style="text-align: center">
- <a href="mailto: shuyi_jia@mymail.sutd.edu.sg">&#128236; Email</a>
+ <a href="mailto: shuyi_jia@mymail.sutd.edu.sg">Email</a>
  &nbsp;&nbsp;&nbsp;
- <a href="https://github.com/shuyijia">&#128049; GitHub</a>
+ <a href="https://github.com/shuyijia">GitHub</a>
  &nbsp;&nbsp;&nbsp;
- <a href="https://twitter.com/shuyi_jia">&#128038; Twitter</a>
+ <a href="https://twitter.com/shuyi_jia">Twitter</a>
 </div>
 ~~~
 
@@ -33,17 +33,15 @@ and addressing fundamental problems in natural sciences, especially in the field
 
 ## Publications
 
-- [Periodic Noise-induced Framework for History-dependent Parrondo's Switching]()\
+- [Periodic Noise-induced Framework for History-dependent Parrondo's Switching](https://link.springer.com/article/10.1007/s11071-022-07277-x)\
   **Shuyi Jia**, Joel Weijia Lai, Jin Ming Koh, and Kang Hao Cheong.\
-  *To appear*.
+  *Nonlinear Dynamics*.
 
 - [Parrondo Effect: Exploring the Nature-inspired Framework on Periodic Functions](https://www.sciencedirect.com/science/article/pii/S0378437120303538?casa_token=5DQG5grmWfMAAAAA:ArgjoCsbwLrx59lhy0G4tLPsbPm2QGfRtoKR4vTQxaE0dzDt706tALfGngUNZYS-w9fZrxNDTbjLRw)\
   **Shuyi Jia**, Joel Weijia Lai, Jin Ming Koh, Neng Gang Xie and Kang Hao Cheong.\
   *Physica A: Statistical Mechanics and its Applications*.
 
 ## Awards
-
-- **SUTD Global Leadership Programme**, SUTD, 2020.
 
 - **SUTD Global Distinguished Scholarship**, SUTD, 2019.
 
