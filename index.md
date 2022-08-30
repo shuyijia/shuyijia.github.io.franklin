@@ -4,20 +4,11 @@
 
 ## Shuyi Jia 「郏舒逸」
 
-I am a final-year student at [SUTD](https://www.sutd.edu.sg),
-majoring in Computer Science and Design (CSD), a CS degree sprinkled with
-doses of engineering, design and social sciences.
-
-I am also a member of the pioneer batch of [SHARP](https://www.sutd.edu.sg/SHARP), a premier
-research-oriented programme that offers advanced classes and
-interdisciplinary research opportunities. I am currently working on
-interpretability of NLP models, mentored by Prof. [Lu Wei](https://scholar.google.com/citations?user=n41KN9AAAAAJ&hl=en&oi=ao).
-Previously, I have worked with Prof. [Dario Poletti](https://scholar.google.com/citations?user=Kr25TGUAAAAJ&hl=en&oi=ao) on applying machine learning methods to quantum many-body systems,
-and Prof. [Cheong Kang Hao](https://scholar.google.com/citations?hl=en&user=neaUULMAAAAJ&view_op=list_works&sortby=pubdate) on Parrondo's paradox.
+I am a first-year CSE PhD student at Georgia Tech, supervised by Prof. [Victor Fung](https://scholar.google.com/citations?user=2QsddMIAAAAJ). I obtained my Bachelor's degree in Computer Science from [SUTD](https://www.sutd.edu.sg). Previously, I have worked with Prof. [Wei Lu](https://scholar.google.com/citations?user=n41KN9AAAAAJ&hl=en&oi=ao) on language models, Prof. [Dario Poletti](https://scholar.google.com/citations?user=Kr25TGUAAAAJ&hl=en&oi=ao) on applying machine learning methods to quantum many-body systems, and Prof. [Kang Hao Cheong](https://scholar.google.com/citations?hl=en&user=neaUULMAAAAJ&view_op=list_works&sortby=pubdate) on Parrondo's paradox.
 
 ~~~
 <div style="text-align: center">
- <a href="mailto: shuyi_jia@mymail.sutd.edu.sg">Email</a>
+ <a href="mailto: shuyijia@gatech.edu">Email</a>
  &nbsp;&nbsp;&nbsp;
  <a href="https://github.com/shuyijia">GitHub</a>
  &nbsp;&nbsp;&nbsp;
@@ -32,6 +23,10 @@ With theoretical understanding, I'm also interested in doing research with a str
 and addressing fundamental problems in natural sciences, especially in the fields of computational physics and chemistry.
 
 ## Publications
+
+- [Atomic Structure Generation from Reconstructing Structural Fingerprints](https://arxiv.org/abs/2207.13227)\
+  Victor Fung, **Shuyi Jia**, Jiaxin Zhang, Sirui Bi, Junqi Yin, P. Ganesh.\
+  *To appear*.
 
 - [Periodic Noise-induced Framework for History-dependent Parrondo's Switching](https://link.springer.com/article/10.1007/s11071-022-07277-x)\
   **Shuyi Jia**, Joel Weijia Lai, Jin Ming Koh, and Kang Hao Cheong.\
