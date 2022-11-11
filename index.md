@@ -26,7 +26,7 @@ and addressing fundamental problems in natural sciences, especially in the field
 
 - [Atomic Structure Generation from Reconstructing Structural Fingerprints](https://arxiv.org/abs/2207.13227)\
   Victor Fung, **Shuyi Jia**, Jiaxin Zhang, Sirui Bi, Junqi Yin, P. Ganesh.\
-  *To appear*.
+  *Machine Learning: Science and Technology*.
 
 - [Periodic Noise-induced Framework for History-dependent Parrondo's Switching](https://link.springer.com/article/10.1007/s11071-022-07277-x)\
   **Shuyi Jia**, Joel Weijia Lai, Jin Ming Koh, and Kang Hao Cheong.\
